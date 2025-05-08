@@ -1,4 +1,4 @@
-# SoftSell Website
+# SoftSell-E-commerce-Website
 
 A modern, responsive single-page marketing website for SoftSell, a fictional SaaS product.
 
