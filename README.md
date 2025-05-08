@@ -1,6 +1,8 @@
 # SoftSell-E-commerce-Website
 
 A modern, responsive single-page marketing website for SoftSell, a fictional SaaS product.
+## 🔗Live Site
+ https://softsell-e-commerce-website.netlify.app/
 
 
 ## ✨ Features
@@ -19,6 +21,7 @@ A modern, responsive single-page marketing website for SoftSell, a fictional Saa
 - ⚛️ React.js (via Vite)
 - 💨 Tailwind CSS
 - 🎞️ Framer Motion
+- 🧪 Deployed on Netlify
 
 ## 🎨 Design Highlights
 
