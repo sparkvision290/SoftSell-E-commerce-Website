@@ -43,10 +43,10 @@ A modern, responsive single-page marketing website for SoftSell, a fictional Saa
 | Task               | Time Spent |
 |--------------------|------------|
 | Planning & Design  | 3 hours    |
-| Core Functionality | 8 hours    |
-| UI Polish          | 4 hours    |
+| Core Functionality | 5 hours    |
+| UI Polish          | 2 hours    |
 | Testing & Bugs     | 1 hour     |
-| **Total**          | **16 hours** |
+| **Total**          | **11 hours** |
 
 # Installation
 
